@@ -16,3 +16,7 @@ Dari data yang didapatkan kita diminta untuk melakukan evaluasi, yang dibagi men
 
 
 <hr>
+
+Untuk melihat Dashboard bisa klik link berikut https://public.tableau.com/app/profile/glen.joy2546/viz/NYCTLCDashboard_17323385017260/DashboardUtama?publish=yes
+
+Untuk melihat ppt bisa klik link berikut https://docs.google.com/presentation/d/1G6fDWyBQl38yruBRPLMkn9wbPjAR7h3ehJietn17GPo/edit#slide=id.p
